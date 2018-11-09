@@ -1,2 +1,2 @@
-# scanner
-An android application that can scan texts, solve mathematics and converts the scanned texts into speech
+# scanit
+An android app that can scan texts, solve simple mathematics &amp; convert the scanned texts into audio (java)
